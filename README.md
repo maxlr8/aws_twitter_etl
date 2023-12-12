@@ -3,7 +3,7 @@
 Welcome to the End-To-End Data Engineering Project using Airflow and Python! This project focuses on extracting data from Twitter using the Twitter API, and transforming the data using Python.
 
 <div align="center">
-  <img src="./Screenshots/1_Project_Workflow.jpg" alt="workflow" width=647 height=364>
+  <img src="./ScreenShots/1_Project_Workflow.jpg" alt="workflow" width=647 height=364>
 </div>
 
 <br>
@@ -11,7 +11,7 @@ Welcome to the End-To-End Data Engineering Project using Airflow and Python! Thi
 Once the data is transformed, it is deployed on Airflow and AWS EC2, and ultimately storing the final results on Amazon S3.
 
 <div align="center">
-  <img src="./Screenshots/35_downloaded_csv.jpg" alt="workflow" width=647 height=364>
+  <img src="./ScreenShots/35_downloaded_csv.jpg" alt="workflow" width=647 height=364>
 </div>
 
 <br>
