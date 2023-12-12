@@ -1,0 +1,10 @@
+black
+ipykernel
+python-dotenv
+openpyxl
+pandas
+tweepy
+s3fs
+virtualenv
+apache-airflow
+apache-airflow[cncf.kubernetes]
